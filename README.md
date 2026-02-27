@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-I've wanted to build something massive for a while now. Something that would challenge me and help me grow as a developer. I've always been fascinated by distributed systems and how they work. I've also been a fan of video streaming services like Netflix and YouTube. So I decided to combine the two and build my own video streaming microservices application. It's nothing fancy but it's a start.
+I've wanted to build something massive for a while now, leveraging a myriad of technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like Netflix and Youtube, and how they work. 
+
+***So I decided to go for it and BUILD MY OWN video streaming microservices application!*** 😅
+
+It's nothing fancy but it's a start.
 
 - 🔭 I’m currently building [FlixTube](https://github.com/JayKay24/flix-tube), a video-streaming microservices application. Inspired by [Boostrapping Microservices](https://github.com/bootstrapping-microservices-2nd-edition).
-- 🌱 FlixTube leverages the following technologies:
+- 🌱 While building FlixTube, I've gained a lot of experience with the following technologies and frameworks:
   <table>
     <tr>
       <td align="center"><img src="./terraform-icon-svgrepo-com.svg" width="40" height="40" /><br/>Terraform</td>
