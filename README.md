@@ -63,4 +63,4 @@ It's nothing fancy but it's a start.
     </tr>
   </table>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I haven't watched a lot of popular animes, I promise I'll start. I've watched Cowboy Bebop though 😀! See you, space cowboy!
+- ⚡ Fun fact: I haven't dipped my toes into the anime world as much as I'd like to, but I'll start soon. I've watched Cowboy Bebop though 😀! See you, space cowboy!
