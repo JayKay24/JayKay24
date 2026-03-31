@@ -8,7 +8,7 @@ It's nothing fancy but it's a start.
 
 - 🔭 I’m currently building [FlixTube](https://github.com/JayKay24/flix-tube), a video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
 - 📂 I'm also working on [ShiftSync](https://github.com/JayKay24/ShiftSync), but FlixTube remains my main focus.
-- 🌱 While building FlixTube, I've gained a lot of experience with the following technologies and frameworks:
+- 🌱 While building FlixTube and ShiftSync, I've gained a lot of experience with the following technologies and frameworks:
   <table>
     <tr>
       <td align="center"><img src="./terraform-icon-svgrepo-com.svg" width="40" height="40" /><br/>Terraform</td>
@@ -39,6 +39,11 @@ It's nothing fancy but it's a start.
       <td align="center"><img src="./nestjs-svgrepo-com.svg" width="40" height="40" /><br/> NestJS</td>
       <td align="center"><img src="./http-svgrepo-com.svg" width="40" height="40" /><br/> HTTP</td>
       <td align="center"><img src="./nodejs-1-logo-svgrepo-com.svg" width="40" height="40" /><br/> Node.js</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./postgresql-logo-svgrepo-com.svg" width="40" height="40" /><br/>PostgreSQL</td>
+      <td align="center"><img src="./drizzle-orm.svg" width="40" height="40" /><br/>Drizzle ORM</td>
+      <td></td>
     </tr>
   </table>  
 - 👯 I’m looking to collaborate on interesting distributed systems applications.
