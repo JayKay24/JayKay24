@@ -7,6 +7,7 @@ I've wanted to build something massive for a while now, leveraging a myriad of t
 It's nothing fancy but it's a start.
 
 - 🔭 I’m currently building [FlixTube](https://github.com/JayKay24/flix-tube), a video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
+- 📂 I'm also working on [ShiftSync](https://github.com/JayKay24/ShiftSync), but FlixTube remains my main focus.
 - 🌱 While building FlixTube, I've gained a lot of experience with the following technologies and frameworks:
   <table>
     <tr>
