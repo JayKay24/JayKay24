@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=JayKay24)](https://git.io/streak-stats)
-
 ## Hi there 👋
 
 I've wanted to build something massive for a while now, leveraging a myriad of technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like Netflix and Youtube, and how they work. 
@@ -88,3 +86,5 @@ It's nothing fancy but it's a start.
 
   * [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(TV_series))
   * [Cowboy Bebop](https://en.wikipedia.org/wiki/Cowboy_Bebop)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JayKay24&theme=dark)](https://git.io/streak-stats)
