@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=JayKay24)](https://git.io/streak-stats)
+
 ## Hi there 👋
 
 I've wanted to build something massive for a while now, leveraging a myriad of technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like Netflix and Youtube, and how they work. 
@@ -81,7 +83,6 @@ It's nothing fancy but it's a start.
       </td>
     </tr>
   </table>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JayKay24)](https://git.io/streak-stats)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I haven't dipped my toes into the anime world as much as I'd like to, but Here's a small list of some I find interesting:
 
