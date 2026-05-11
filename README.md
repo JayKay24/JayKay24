@@ -11,52 +11,52 @@ It's nothing fancy but it's a start.
 - 🌱 While building FlixTube and ShiftSync, I've gained a lot of experience with the following technologies:
 
   **Languages & Runtimes**
-  <table bgcolor="#f6f8fa">
+  <table bgcolor="white">
     <tr>
-      <td align="center"><img src="./typescript-official-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">TypeScript</font></b></td>
-      <td align="center"><img src="./nodejs-1-logo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Node.js</font></b></td>
-      <td align="center"><img src="./bash-icon-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Bash 5</font></b></td>
+      <td align="center" bgcolor="white"><img src="./typescript-official-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">TypeScript</font></b></td>
+      <td align="center" bgcolor="white"><img src="./nodejs-1-logo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Node.js</font></b></td>
+      <td align="center" bgcolor="white"><img src="./bash-icon-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Bash 5</font></b></td>
     </tr>
   </table>
 
   **Frameworks & Libraries**
-  <table bgcolor="#f6f8fa">
+  <table bgcolor="white">
     <tr>
-      <td align="center"><img src="./nextjs-fill-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Next.js</font></b></td>
-      <td align="center"><img src="./nestjs-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">NestJS</font></b></td>
-      <td align="center"><img src="./drizzle-orm.svg" width="40" height="40" /><br/><b><font color="black">Drizzle ORM</font></b></td>
+      <td align="center" bgcolor="white"><img src="./nextjs-fill-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Next.js</font></b></td>
+      <td align="center" bgcolor="white"><img src="./nestjs-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">NestJS</font></b></td>
+      <td align="center" bgcolor="white"><img src="./drizzle-orm.svg" width="40" height="40" /><br/><b><font color="black">Drizzle ORM</font></b></td>
     </tr>
   </table>
 
   **Infrastructure & Cloud**
-  <table bgcolor="#f6f8fa">
+  <table bgcolor="white">
     <tr>
-      <td align="center"><img src="./terraform-icon-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Terraform</font></b></td>
-      <td align="center"><img src="./kubernetes-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Kubernetes</font></b></td>
-      <td align="center"><img src="./azure-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Microsoft Azure</font></b></td>
-      <td align="center"><img src="./docker-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Docker</font></b></td>
-      <td align="center"><img src="./linux-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Linux VM</font></b></td>
+      <td align="center" bgcolor="white"><img src="./terraform-icon-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Terraform</font></b></td>
+      <td align="center" bgcolor="white"><img src="./kubernetes-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Kubernetes</font></b></td>
+      <td align="center" bgcolor="white"><img src="./azure-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Microsoft Azure</font></b></td>
+      <td align="center" bgcolor="white"><img src="./docker-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Docker</font></b></td>
+      <td align="center" bgcolor="white"><img src="./linux-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Linux VM</font></b></td>
     </tr>
   </table>
 
   **Databases & Messaging**
-  <table bgcolor="#f6f8fa">
+  <table bgcolor="white">
     <tr>
-      <td align="center"><img src="./postgresql-logo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">PostgreSQL</font></b></td>
-      <td align="center"><img src="./mongo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Mongo DB</font></b></td>
-      <td align="center"><img src="./rabbitmq-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">RabbitMQ</font></b></td>
+      <td align="center" bgcolor="white"><img src="./postgresql-logo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">PostgreSQL</font></b></td>
+      <td align="center" bgcolor="white"><img src="./mongo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Mongo DB</font></b></td>
+      <td align="center" bgcolor="white"><img src="./rabbitmq-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">RabbitMQ</font></b></td>
     </tr>
   </table>
 
   **Tools & Testing**
-  <table bgcolor="#f6f8fa">
+  <table bgcolor="white">
     <tr>
-      <td align="center"><img src="./git-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Git</font></b></td>
-      <td align="center"><img src="./github-142-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">GitHub</font></b></td>
-      <td align="center"><img src="./nx-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">Nx</font></b></td>
-      <td align="center"><img src="./playwright-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">Playwright</font></b></td>
-      <td align="center"><img src="./jest-snapshot-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Jest</font></b></td>
-      <td align="center"><img src="./http-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">HTTP</font></b></td>
+      <td align="center" bgcolor="white"><img src="./git-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Git</font></b></td>
+      <td align="center" bgcolor="white"><img src="./github-142-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">GitHub</font></b></td>
+      <td align="center" bgcolor="white"><img src="./nx-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">Nx</font></b></td>
+      <td align="center" bgcolor="white"><img src="./playwright-seeklogo.svg" width="40" height="40" /><br/><b><font color="black">Playwright</font></b></td>
+      <td align="center" bgcolor="white"><img src="./jest-snapshot-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Jest</font></b></td>
+      <td align="center" bgcolor="white"><img src="./http-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">HTTP</font></b></td>
     </tr>
   </table>  
 - 👯 I’m looking to collaborate on interesting distributed systems applications.
@@ -67,15 +67,15 @@ It's nothing fancy but it's a start.
   * DevOps
   * Web Application Security
 - 📫 How to reach me:
-  <table>
+  <table bgcolor="white">
     <tr>
-      <td align="center">
+      <td align="center" bgcolor="white">
         <img src="./linkedin-icon-svgrepo-com.svg" width="40" height="40" />
       </td>
-      <td>
+      <td bgcolor="white">
         <a href="https://www.linkedin.com/in/james-kinyua-njuguna/">
           <strong>
-            James Kinyua Njuguna
+            <font color="black">James Kinyua Njuguna</font>
           </strong>
         </a>
       </td>
