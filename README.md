@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-I've wanted to build something massive for a while now, leveraging a myriad of technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like Netflix and Youtube, and how they work. 
+I've wanted to build something massive for a while now, leveraging a myriad of computer science concepts, technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like YouTube, and most importantly, how they work.
 
-***So I decided to go for it and BUILD MY OWN video streaming microservices application!*** 😅
+***So I decided to go for it and build several complex applications to master different domains!*** 😅
 
 It's nothing fancy but it's a start.
 
-- 🔭 I’m currently building [FlixTube](https://github.com/JayKay24/flix-tube), a video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
-- 📂 I'm also working on [ShiftSync](https://github.com/JayKay24/ShiftSync), but FlixTube remains my main focus.
-- 🌱 While building FlixTube and ShiftSync, I've gained a lot of experience with the following technologies:
+- 🔭 I’m currently building and alternating between:
+  - [FlixTube](https://github.com/JayKay24/flix-tube): A video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
+  - [ShiftSync](https://github.com/JayKay24/ShiftSync): A workforce management application exploring modern architecture patterns.
+  - [AI-enhanced web apps](https://github.com/JayKay24/ai_enhanced_web_apps): A comprehensive portfolio leveraging LLMs and Generative AI.
+  
+  I switch back and forth between these projects to sharpen my skills in distributed systems, modern architecture patterns, and Generative AI.
+- 🌱 While building these projects, I've gained a lot of experience with the following technologies:
 
   **Languages & Runtimes**
   <table bgcolor="white">
