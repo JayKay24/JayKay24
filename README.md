@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I've wanted to build something massive for a while now, leveraging a myriad of computer science concepts, technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by distributed systems like YouTube, and most importantly, how they work.
+I've wanted to build something massive for a while now, leveraging a myriad of computer science concepts, technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by intelligent, distributed systems like YouTube, and most importantly, how they work.
 
-***So I decided to go for it and build several complex applications to master different domains!*** 😅
-
-It's nothing fancy but it's a start.
+***So I decided to go for it and build several complex applications to master different facets of software engineering!*** 😅
 
 - 🔭 I’m currently building and alternating between:
   - [FlixTube](https://github.com/JayKay24/flix-tube): A video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
