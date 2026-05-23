@@ -17,6 +17,7 @@ I've wanted to build something massive for a while now, leveraging a myriad of c
     <tr>
       <td align="center" bgcolor="white"><img src="./typescript-official-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">TypeScript</font></b></td>
       <td align="center" bgcolor="white"><img src="./nodejs-1-logo-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Node.js</font></b></td>
+      <td align="center" bgcolor="white"><img src="./python.svg" width="40" height="40" /><br/><b><font color="black">Python 3</font></b></td>
       <td align="center" bgcolor="white"><img src="./bash-icon-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Bash 5</font></b></td>
     </tr>
   </table>
@@ -27,6 +28,17 @@ I've wanted to build something massive for a while now, leveraging a myriad of c
       <td align="center" bgcolor="white"><img src="./nextjs-fill-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">Next.js</font></b></td>
       <td align="center" bgcolor="white"><img src="./nestjs-svgrepo-com.svg" width="40" height="40" /><br/><b><font color="black">NestJS</font></b></td>
       <td align="center" bgcolor="white"><img src="./drizzle-orm.svg" width="40" height="40" /><br/><b><font color="black">Drizzle ORM</font></b></td>
+    </tr>
+  </table>
+
+  **Generative AI & LLMs**
+  <table bgcolor="white">
+    <tr>
+      <td align="center" bgcolor="white"><img src="./vercel.svg" width="40" height="40" /><br/><b><font color="black">Vercel AI SDK</font></b></td>
+      <td align="center" bgcolor="white"><img src="./langchain.svg" width="40" height="40" /><br/><b><font color="black">LangChain.js</font></b></td>
+      <td align="center" bgcolor="white"><img src="./langgraph.svg" width="40" height="40" /><br/><b><font color="black">LangGraph</font></b></td>
+      <td align="center" bgcolor="white"><img src="./googlegemini.svg" width="40" height="40" /><br/><b><font color="black">Google Gemini</font></b></td>
+      <td align="center" bgcolor="white"><img src="./openai.svg" width="40" height="40" /><br/><b><font color="black">OpenAI</font></b></td>
     </tr>
   </table>
 
