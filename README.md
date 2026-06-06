@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-I've wanted to build something massive for a while now, leveraging a myriad of computer science concepts, technologies and frameworks. Something that would challenge me and help me grow as a software engineer. I've always been fascinated by intelligent, distributed systems like YouTube, and most importantly, how they work.
+I love building intricate projects leveraging a myriad of computer science concepts, technologies and frameworks; projects that challenge me and help me grow as a software engineer. I've always been fascinated by intelligent, distributed systems like YouTube, and most importantly, how they work.
 
-***So I decided to go for it and build several complex applications to master different facets of software engineering!*** 😅
+***So I decided to go for it and build several complex applications that solve different problems, to master different facets of software engineering!***
 
-- 🔭 I’m currently building and alternating between:
+- 🔭 During my free time, I alternate between building:
   - [FlixTube](https://github.com/JayKay24/flix-tube): A video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
   - [ShiftSync](https://github.com/JayKay24/ShiftSync): A workforce management application exploring modern architecture patterns.
   - [AI-enhanced web apps](https://github.com/JayKay24/ai_enhanced_web_apps): A comprehensive portfolio leveraging LLMs and Generative AI.
   
-  I switch back and forth between these projects to sharpen my skills in distributed systems, modern architecture patterns, and Generative AI.
 - 🌱 While building these projects, I've gained a lot of experience with the following technologies:
 
   **Languages & Runtimes**
@@ -55,13 +54,14 @@ I've wanted to build something massive for a while now, leveraging a myriad of c
   [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
   [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
   [![HTTP](https://img.shields.io/badge/HTTP-0052CC?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- 👯 I’m looking to collaborate on interesting distributed systems applications.
+- 👯 I’m looking to collaborate on intelligent, distributed systems applications.
 - 💬 Ask me about:
   * Microservices
   * Distributed Systems
   * Cloud Computing
   * DevOps
   * Web Application Security
+  * Generative AI
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-James_Kinyua_Njuguna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-kinyua-njuguna/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I haven't dipped my toes into the anime world as much as I'd like to, but Here's a small list of some I find interesting:
