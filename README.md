@@ -63,7 +63,6 @@ I love building intricate projects leveraging a myriad of computer science conce
   * Web Application Security
   * Generative AI
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-James_Kinyua_Njuguna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-kinyua-njuguna/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I haven't dipped my toes into the anime world as much as I'd like to, but Here's a small list of some I find interesting:
 
   * [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(TV_series))
