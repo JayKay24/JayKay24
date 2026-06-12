@@ -5,9 +5,9 @@ I love building intricate projects leveraging a myriad of computer science conce
 ***So I decided to go for it and build several complex applications that solve different problems, to master different facets of software engineering!***
 
 - 🔭 During my free time, I alternate between building:
-  - [FlixTube](https://github.com/JayKay24/flix-tube): A video-streaming microservices application. Inspired by the [Boostrapping Microservices](https://bootstrapping-microservices.com) book by [Ashley Davis](https://github.com/ashleydavis).
+  - [AI-enhanced web apps](https://github.com/JayKay24/ai_enhanced_web_apps): An Nx monorepo of full-stack conversational AI applications (Document Summarization, RAG search, and Interview practice) built with Next.js, Vertex AI, and the Vercel AI SDK.
+  - [FlixTube](https://github.com/JayKay24/flix-tube): A distributed, cloud-native video-streaming application I built from the ground up to explore microservices architecture, event-driven communication, and container orchestration.
   - [ShiftSync](https://github.com/JayKay24/ShiftSync): A workforce management application exploring modern architecture patterns.
-  - [AI-enhanced web apps](https://github.com/JayKay24/ai_enhanced_web_apps): A comprehensive portfolio leveraging LLMs and Generative AI.
   
 - 🌱 While building these projects, I've gained a lot of experience with the following technologies:
 
